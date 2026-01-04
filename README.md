@@ -25,7 +25,7 @@ Clone the repository:
 git clone https://github.com/imanpirani-dot/RoS-project.git
 cd RoS-project
 ```
-# Usage
+## Usage
 
 Make the script executable and run:
 
@@ -41,7 +41,7 @@ chmod +x examples/run_example.sh
 ./examples/run_example.sh
 ```
 
-# Algorithm
+## Algorithm
 
 The Nearest Neighbor algorithm:
 
